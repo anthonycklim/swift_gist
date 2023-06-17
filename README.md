@@ -1,2 +1,2 @@
-# swift_gist
+# Swift Gist
 Swift Code sniplets
